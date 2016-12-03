@@ -238,7 +238,7 @@ SCWeb.ui.WindowManager = {
                 format_addr: fmt_addr,
                 addr: addr,
                 is_struct: is_struct,
-                container: window_id,
+                container: windowId,
                 canEdit: true    //! TODO: check user rights
             });
 
